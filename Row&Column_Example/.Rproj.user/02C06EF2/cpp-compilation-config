@@ -1,0 +1,12 @@
+{
+    "args": [
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/5.0.2",
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/libc++/5.0.2",
+        "-nostdinc",
+        "-IC:/Users/kjoba/Documents/R/win-library/3.4/Rcpp/include"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "1629240244",
+    "compiler": "14695981039346656037"
+}
